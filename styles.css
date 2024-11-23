@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: #7f7f7f;
+  font-family: Arial, sans-serif;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+}
+
+.container {
+  color: #7f7f7f;
+  background-color: transparent;
+  border-style: none;
+  font-family: "Sarpanch", sans-serif;
+  font-size: 1.5rem;
+  text-align: center;
+}
