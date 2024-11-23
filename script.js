@@ -44,7 +44,6 @@ function getNextThanksgiving() {
 function displayThanksgivingDate() {
   const thanksgiving = getNextThanksgiving();
   const options = {
-    weekday: "long",
     month: "long",
     day: "numeric",
     year: "numeric",
